@@ -57,7 +57,7 @@ python basic_FaceRecognition.py
 
 ## :mailbox:Contacta con nosotros:
 
-- Email: vaneza@facroriaf5.com ; 
+- Email: vaneza@factoriaf5.com ; 
          raul@factoriaf5.com
 
 
